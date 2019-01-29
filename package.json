@@ -1,0 +1,26 @@
+{
+  "name": "multiroom_chat",
+  "version": "1.0.0",
+  "description": "projeto como resultado do curso de nodeJS da Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JhonatanNobreBarboza/multiroom_chat.git"
+  },
+  "author": "jhonatan nobre",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JhonatanNobreBarboza/multiroom_chat/issues"
+  },
+  "homepage": "https://github.com/JhonatanNobreBarboza/multiroom_chat#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "consign": "^0.1.6",
+    "ejs": "^2.6.1",
+    "express": "^4.16.4",
+    "express-validator": "^5.3.1"
+  }
+}
